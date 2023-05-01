@@ -1,0 +1,8 @@
+tasks\view\Main.class
+tasks\controller\NewEditController.class
+tasks\services\DateService.class
+module-info.class
+tasks\controller\Controller.class
+tasks\controller\TaskInfoController.class
+tasks\model\Task.class
+tasks\services\TasksService.class
