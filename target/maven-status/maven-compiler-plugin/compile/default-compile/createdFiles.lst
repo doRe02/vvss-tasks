@@ -1,8 +1,10 @@
 tasks\observer\TasksOperations.class
 tasks\repository\LinkedTaskList$LinkedTaskListIterator.class
 tasks\repository\ArrayTaskList$ArrayTaskListIterator.class
+tasks\repository\LinkedTaskList$1.class
 tasks\view\Main.class
 tasks\controller\NewEditController.class
+tasks\repository\ArrayTaskList$1.class
 tasks\services\DateService.class
 tasks\controller\Controller.class
 tasks\controller\TaskInfoController.class
