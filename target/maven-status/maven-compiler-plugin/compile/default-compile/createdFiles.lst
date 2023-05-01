@@ -1,8 +1,17 @@
+tasks\observer\TasksOperations.class
+tasks\repository\LinkedTaskList$LinkedTaskListIterator.class
+tasks\repository\ArrayTaskList$ArrayTaskListIterator.class
 tasks\view\Main.class
 tasks\controller\NewEditController.class
 tasks\services\DateService.class
 module-info.class
 tasks\controller\Controller.class
 tasks\controller\TaskInfoController.class
+tasks\repository\TaskList.class
+tasks\repository\LinkedTaskList$Node.class
+tasks\observer\Notificator.class
+tasks\repository\LinkedTaskList.class
+tasks\repository\TaskIO.class
 tasks\model\Task.class
+tasks\repository\ArrayTaskList.class
 tasks\services\TasksService.class

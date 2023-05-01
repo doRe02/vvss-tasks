@@ -21,3 +21,6 @@
 2023-03-15 04:43:02 INFO  NewEditController:90 - new/edit window initializing
 2023-03-15 04:43:12 INFO  TaskInfoController:25 - task info window initializing
 2023-04-29 14:18:23 ERROR Task:43 - interval < than 1
+2023-05-01 14:46:17 INFO  Main:40 - saved data reading
+2023-05-01 14:46:17 INFO  Main:45 - application start
+2023-05-01 14:46:18 INFO  Controller:78 - Main controller initializing
