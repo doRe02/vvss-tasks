@@ -1,0 +1,7 @@
+tasks\services\DateServiceTest.class
+modulesTesting\entity\TaskTest.class
+tasks\repository\ArrayTaskListTest.class
+tasks\repository\TaskListTest.class
+tasks\model\TaskTest.class
+modulesTesting\service\TasksServiceTest.class
+modulesTesting\repository\ArrayTaskListTest.class
