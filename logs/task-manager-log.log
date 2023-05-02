@@ -24,3 +24,21 @@
 2023-05-01 14:46:17 INFO  Main:40 - saved data reading
 2023-05-01 14:46:17 INFO  Main:45 - application start
 2023-05-01 14:46:18 INFO  Controller:78 - Main controller initializing
+2023-05-02 18:01:48 ERROR Task:43 - interval < than 1
+2023-05-02 18:01:48 ERROR Task:43 - interval < than 1
+2023-05-02 18:07:05 ERROR Task:43 - interval < than 1
+2023-05-02 18:07:05 ERROR Task:43 - interval < than 1
+2023-05-02 18:07:58 ERROR Task:43 - interval < than 1
+2023-05-02 18:07:58 ERROR Task:43 - interval < than 1
+2023-05-02 18:08:26 ERROR Task:43 - interval < than 1
+2023-05-02 18:08:26 ERROR Task:43 - interval < than 1
+2023-05-02 18:08:26 ERROR Task:43 - interval < than 1
+2023-05-02 18:13:11 ERROR Task:43 - interval < than 1
+2023-05-02 18:13:11 ERROR Task:43 - interval < than 1
+2023-05-02 18:13:11 ERROR Task:43 - interval < than 1
+2023-05-02 18:13:47 ERROR Task:43 - interval < than 1
+2023-05-02 18:13:47 ERROR Task:43 - interval < than 1
+2023-05-02 18:13:47 ERROR Task:43 - interval < than 1
+2023-05-02 18:14:01 ERROR Task:43 - interval < than 1
+2023-05-02 18:14:01 ERROR Task:43 - interval < than 1
+2023-05-02 18:14:01 ERROR Task:43 - interval < than 1

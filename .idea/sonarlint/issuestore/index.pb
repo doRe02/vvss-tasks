@@ -5,3 +5,9 @@ a
 1src/test/java/modulesTesting/entity/TaskTest.java,a\2\a2e5d58f56dee73df19b9e627234324305f93239
 R
 "src/main/java/tasks/view/Main.java,a\4\a4e952c1a4765c6cf9a337826a42d32c3f95db7f
+^
+.src/main/java/tasks/controller/Controller.java,e\c\ecf3c385b36af4d118754ee8d9878c48978fcaa9
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+<
+01_Tasks.iml,b\d\bdb3226c332de5405059c4c6c04ebd0397df388f

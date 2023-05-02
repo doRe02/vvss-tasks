@@ -5,3 +5,4 @@ tasks\repository\TaskListTest.class
 tasks\model\TaskTest.class
 modulesTesting\service\TasksServiceTest.class
 modulesTesting\repository\ArrayTaskListTest.class
+modulesTesting\Step2TestRS.class
