@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: modulesTesting.service.TasksServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.021 s - in modulesTesting.service.TasksServiceTest

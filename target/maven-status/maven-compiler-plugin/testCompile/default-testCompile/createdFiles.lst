@@ -6,3 +6,4 @@ tasks\model\TaskTest.class
 modulesTesting\service\TasksServiceTest.class
 modulesTesting\repository\ArrayTaskListTest.class
 modulesTesting\Step2TestRS.class
+modulesTesting\Step3TestSRE.class

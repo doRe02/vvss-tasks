@@ -3,6 +3,8 @@ package tasks.repository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import tasks.model.Task;
+import tasks.repository.ArrayTaskList;
+import tasks.repository.TaskList;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

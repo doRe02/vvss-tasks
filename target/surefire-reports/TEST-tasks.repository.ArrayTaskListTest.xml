@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tasks.repository.TaskListTest" time="0" tests="8" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tasks.repository.ArrayTaskListTest" time="0.174" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -57,12 +57,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="test1" classname="tasks.repository.TaskListTest" time="0"/>
-  <testcase name="test2" classname="tasks.repository.TaskListTest" time="0"/>
-  <testcase name="test3" classname="tasks.repository.TaskListTest" time="0"/>
-  <testcase name="test4" classname="tasks.repository.TaskListTest" time="0"/>
-  <testcase name="test5" classname="tasks.repository.TaskListTest" time="0"/>
-  <testcase name="test6" classname="tasks.repository.TaskListTest" time="0"/>
-  <testcase name="test7" classname="tasks.repository.TaskListTest" time="0"/>
-  <testcase name="test8" classname="tasks.repository.TaskListTest" time="0"/>
+  <testcase name="addValidTask" classname="tasks.repository.ArrayTaskListTest" time="0"/>
+  <testcase name="checkIntervalLessThan1ShouldThrowError" classname="tasks.repository.ArrayTaskListTest" time="0.071"/>
+  <testcase name="checkIntervalEquals1ShouldThrowError" classname="tasks.repository.ArrayTaskListTest" time="0.029"/>
+  <testcase name="checkStartTimeShouldBeLessThanEndTime" classname="tasks.repository.ArrayTaskListTest" time="0.031"/>
+  <testcase name="checkTaskAddWithDifferentValidIntervalValues" classname="tasks.repository.ArrayTaskListTest" time="0"/>
+  <testcase name="checkTaskAddIncorrectEndTimeAndStartTime" classname="tasks.repository.ArrayTaskListTest" time="0.032"/>
+  <testcase name="checkTaskAddIntervalValueLessThanOneShouldThrowError" classname="tasks.repository.ArrayTaskListTest" time="0"/>
 </testsuite>
